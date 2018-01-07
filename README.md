@@ -21,8 +21,8 @@ Endpoints:
 
 5. '/getcookies'
 
-6 '/robots.txt'
+6  '/robots.txt'
 
-7 '/input'
+7  '/input'
 
 
